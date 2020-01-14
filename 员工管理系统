@@ -1,1 +1,7 @@
 基于java+SSM+Maven+tomcat+JSP环境开发
+数据库文件也在emp_mngr/sql/文件夹下
+Jdk版本-1.8
+MySQL版本-8.0
+tomcat版本-9.0
+eclipse-4.13
+Junit4
